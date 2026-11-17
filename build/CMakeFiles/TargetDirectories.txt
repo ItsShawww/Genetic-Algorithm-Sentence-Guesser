@@ -1,0 +1,3 @@
+/home/shawx/Projects/C/wordEvo/build/CMakeFiles/wordEvo.dir
+/home/shawx/Projects/C/wordEvo/build/CMakeFiles/edit_cache.dir
+/home/shawx/Projects/C/wordEvo/build/CMakeFiles/rebuild_cache.dir
